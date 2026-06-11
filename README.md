@@ -14,4 +14,3 @@ The above statistics mentioned about the Assembler and Simulator were based on a
 updating readme soon !
 thanks for visiting :)
 
-[![Kanishk's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanishk25249-sudo)](https://github.com/kanishk25249-sudo)
