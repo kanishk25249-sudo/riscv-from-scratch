@@ -12,5 +12,6 @@ the next: C source → compiler → assembly → assembler → binary → simula
 The above statistics mentioned about the Assembler and Simulator were based on autograding infrastructure by respective IIITD Officials.
 
 updating readme soon !
+(the project isn't completed yet)
 thanks for visiting :)
 
