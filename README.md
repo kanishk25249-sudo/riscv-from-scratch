@@ -13,5 +13,21 @@ The above statistics mentioned about the Assembler and Simulator were based on a
 
 updating readme soon !
 (the project isn't completed yet)
+
+just as an example :
+below is a proof of 2 pipelines integrating :
+
+initial set of instructions given to compiler
+
+<img width="1052" height="551" alt="image" src="https://github.com/user-attachments/assets/914bd47b-1d35-4d31-9135-2c291f8fa489" />
+
+compiler->assembler->kernel
+
+<img width="1240" height="698" alt="image" src="https://github.com/user-attachments/assets/6b8cd500-f149-4835-b7be-438e7e906a75" />
+
+compiler->assembler->simulator
+
+<img width="1240" height="698" alt="image" src="https://github.com/user-attachments/assets/ba511dea-a711-4845-9e80-d3061eb23271" />
+
 thanks for visiting :)
 
