@@ -29,5 +29,13 @@ compiler->assembler->simulator
 
 <img width="1240" height="698" alt="image" src="https://github.com/user-attachments/assets/ba511dea-a711-4845-9e80-d3061eb23271" />
 
-thanks for visiting :)
+It isn't a one day project (based on the commit history) below are the details :
+The assembler was completed and evaluated by officials assigned on 16th of March.
+(though some minor modifications like adding more instructions necessary were added later on in May)
+The simulator was completed and evaluated by officials assigned on 23rd of April.
+(again as above, minor modifications lasted till the end of May.)
+The compiler and kernel were my major add-ons to the project on which i worked from 10th of May till 14th of June.
+
+
+Thanks for visiting :)
 
