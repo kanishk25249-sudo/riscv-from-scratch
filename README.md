@@ -11,9 +11,6 @@ variables, binary arithmetic, if/else, while loops, and return statements. Every
 the next: C source → compiler → assembly → assembler → binary → simulator or kernel on QEMU.
 The above statistics mentioned about the Assembler and Simulator were based on autograding infrastructure by respective IIITD Officials.
 
-updating readme soon !
-(the project isn't completed yet)
-
 just as an example :
 below is a proof of 2 pipelines integrating :
 
@@ -37,5 +34,6 @@ The simulator was completed and evaluated by officials assigned on 23rd of April
 The compiler and kernel were my major add-ons to the project on which i worked from 10th of May till 14th of June.
 
 
+(the project isn't completed yet)
 Thanks for visiting :)
 
